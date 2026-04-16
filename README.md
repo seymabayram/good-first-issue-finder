@@ -4,6 +4,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EddieHubCommunity/good-first-issue-finder)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/invite/jZQs6Wu)
 
+---
+
+**Available Languages:**
+- [Turkish (Türkçe)](README_TR.md)
+
+---
+
 # Good First Issue Finder by EddieHub
 
 Good First Issue Finder helps new open source contributors to make it easy to get into the world of open source through good first issues.
